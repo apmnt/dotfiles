@@ -1,0 +1,7 @@
+*
+**/*
+!.gitignore
+!chromium-flags.conf
+!electron-flags.conf
+!hypr/
+!hypr/hyprland.conf
