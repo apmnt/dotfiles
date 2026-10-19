@@ -5,3 +5,5 @@
 !electron-flags.conf
 !hypr/
 !hypr/hyprland.conf
+!hypr/hyprland.lua
+!waybar/
